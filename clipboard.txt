@@ -2,3 +2,5 @@ Certificate
 Thumbprint: 5D8112695DB013C99A5889BA356C5963E5B6DDF1
 
 sf-experiment.canadacentral.cloudapp.azure.com
+
+<ClusterConnectionParameters ConnectionEndpoint="sf-experiment.canadacentral.cloudapp.azure.com:19000" X509Credential="true" ServerCertThumbprint="CF08E41E7E458E38C5F03C9AF2EDAB24AE00A194" FindType="FindByThumbprint" FindValue="5D8112695DB013C99A5889BA356C5963E5B6DDF1" StoreLocation="CurrentUser" StoreName="My" />
