@@ -1,0 +1,4 @@
+Certificate
+Thumbprint: 5D8112695DB013C99A5889BA356C5963E5B6DDF1
+
+sf-experiment.canadacentral.cloudapp.azure.com
